@@ -1,4 +1,4 @@
-testscript
+test
 =========
 #!/bin/bash
 #
